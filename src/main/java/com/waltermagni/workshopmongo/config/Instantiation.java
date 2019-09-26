@@ -54,8 +54,6 @@ public class Instantiation implements CommandLineRunner{
 		userRepository.save(maria);
 		
 		
-		
-		
 	}
 
 }
